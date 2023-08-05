@@ -1,0 +1,27 @@
+Módulo 1 - Aula 5
+-------------------------------------------------------------------------------------------------
+
+5 Piláres da Segurança:
+
+	- Confidencialidade
+		Manter algum dado apenas entre você e a entidade que víncula esse dado.
+		
+	- Integridade
+		É a troca de dados ser levada e trazida sem perca nem mudanças de dados, 
+	     e se caso desviada ser criptografada para quem interceptou Não entender Nem
+	     alterar.
+	     
+	- Disponibilidade
+		É a conexão entre cliente e servidor ser possível.
+		
+	- Autenticidade
+		A prova de que algo é verdadeiro
+		
+	- Legalidade
+		Trata as leis segurança de dados
+		
+		C onfidencialidade
+		I ntegridade
+		D isponibilidade
+		A utenticidade
+		L egalidade

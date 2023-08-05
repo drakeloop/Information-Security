@@ -1,0 +1,91 @@
+Módulo 0 - Aula 7, 8, 9
+-------------------------------------------------------------------------------------------------
+
+Atrativos de invadir um computador.
+
+	- Poder invadir contas
+	- Roubar senhas de bancos 
+		(acesso pelo app no celular é muito mais seguro pois o app é encriptado)
+	- Dá para usar um computador invadido para invadir outro.
+		Assim dificultar o caminho de localizar o cracker após uma invassão.
+	- Seu computador pode ser usado como repositório para armazenar dados roubados.
+	
+	------------------
+
+Formas de ter o computador infectado
+
+	- Ação direta de atacantes
+	- Auto-execução de mídias removíveis do computador
+	- Páginas webs malíciosas
+	- Se aproveitando de vulnerabilidades de programas instalados
+	- Contas de usuários
+		sem senha
+		senha fraca, ex: 1234
+	
+	-------------------
+	
+Cuidados a serem tomados
+
+	- Mantenha sempre os programas atualizados
+		Muitas vezes atualizações são para fechar brechas do programa
+	- Remova as versões antigas que você não usa mais (potencialmente vulneraveis)
+	- Habitue-se a verificar a existência de novas versões
+	- Programe o horário das atualizações se necessário
+	- Utilize apenas programas originais
+	
+	- Verifique se as permissões de intalação e execução são coerentes
+		Seja cuidadoso:
+			Ao permitir que os aplicativos acessem dados pessoais seus.
+			
+	- Cuidado ao clicar em links
+	- Mensagens de conhecidos nem sempre são confiáveis
+		- O campo do remetente pode ter sido falsificado, ou
+		- Podem ter sido enviadas de contas falsas ou invadidas
+	
+	- Desabilite a auto-execução:  (auto-run)
+		- Mídias removíveis 
+		- Arquivos Anexados
+	
+	- Conta de administrador é usada só para instalar e desinstalar
+		- navegue na maquína por uma OUTRA conta que peça permissão para 
+		instalar novos programas.
+		- Desconfie se pedir para instalar programas do nada.
+	
+	- Mantenha a conta de CONVIDADO desabilitada
+		- Isso é uma porta sem tranca no seu computador
+		- Por mais que não possa instalar programas ainda assim tem liberdade
+		de navegar e pegar os dados deles.
+		
+	- Cada Usuário tem sua conta e senha
+		- Por que se alguém fazer merda ou for mal intencionado fica melhor de
+		identificar.
+	
+	- Use criptografia de disco
+		- Mas tome cuidado para não perder a senha
+		- E coloque uma senha diferente nela
+		
+	-Faça regularmente beckup dos seus dados
+	
+	------------------------------------
+	
+Acesso a computador de Terceiros
+
+	- Utilize navegador no modo anônimo
+	- Limpe os dados pessoais salvos no computador
+	- Assegure-se de sair(logout) de suas contas
+	- Use drivers online em vez de pendrive ou símilares
+	
+	-------------------------
+	
+Ao enviar seu computador para serviços de manutenção
+
+	- Faça Beckup dos arquivos e contas
+	- Apague tudo e deslogue
+	- Não permita que instale programas não Originais
+
+
+	
+	
+	
+	
+	
