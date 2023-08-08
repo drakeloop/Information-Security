@@ -1,0 +1,204 @@
+Questões de prova para análise
+----Resposta Correta
+
+=================================================================================================
+
+
+
+Segundo a Cartilha de Segurança para Internet, um computador (ou sistema computacional) é dito seguro se este atende a três requisitos básicos relacionados aos recursos que o compõem, que são:
+
+    Confidencialidade, legitimidade e disponibilidade.
+    confidencialidade, integridade e acesso.
+    legitimidade, integridade e disponibilidade.
+----confidencialidade, integridade e disponibilidade.
+    confidencialidade, sigilo e disponibilidade
+
+
+===============================================================================================
+
+
+
+
+Assinale a opção que apresenta a sequência que completa corretamente as lacunas da sentença abaixo.
+
+Em segurança de redes de computadores, a ____________ protege a informação contra alteração não autorizada. A ____________ garante que um recurso esteja disponível sempre que necessário. E a ______________ protege uma informação contra acesso não autorizado.
+
+    disponibilidade / integridade / confidencialidade
+    disponibilidade / confidencialidade / integridade
+----integridade / disponibilidade / confidencialidade
+    confidencialidade / integridade / confidencialidade
+    confidencialidade / disponibilidade / integridade
+
+
+===============================================================================================
+
+
+
+
+
+Segundo a Cartilha de Segurança para Internet (2012), o que deve ser usado na elaboração de senhas?
+
+    Qualquer tipo de dado pessoal.
+    Palavras que façam parte de listas
+    Sequências de teclado.
+----Diferentes tipos de caracteres.
+    Salvar as senhas no navegador Web.
+
+
+===============================================================================================
+
+
+
+
+
+
+Das opções abaixo, qual é um risco que envolve a utilização da Internet:
+
+    Sempre atualizar os programas do computador.
+    Manter o Windows sempre atualizado
+    Não baixar arquivos recebidos de desconhecidos.
+----Manter programas antigos e não atualizados no computador.
+
+
+===============================================================================================
+
+
+
+
+
+
+Qual recurso é utilizados para proteger um computador contra acessos não autorizados vindos da Internet?
+
+----Firewall.
+    Webmail.
+    Spam.
+    Antivírus.
+    Backup.
+
+
+===============================================================================================
+
+
+
+
+
+
+Coloque F (falso) ou V (verdadeiro) com relação aos elementos que devem ser usados na elaboração de boas senhas, assinalando, a seguir, a opção que apresenta a sequência correta.
+
+( ) Números aleatórios.
+
+( ) Diferentes tipos de caracteres.
+
+( ) Sequência de teclado.
+
+( ) Palavras que façam parte de listas.
+
+( ) Grande quantidade de caracteres.
+
+    (V) (F) (V) (F) (F)
+    (F) (F) (V) (V) (V)
+----(V) (V) (F) (F) (V)
+    (V) (V) (V) (V) (F)
+    (V) (F) (F) (V) (V)
+
+
+===============================================================================================
+
+
+
+
+
+
+Qual é a técnica pela qual um atacante utiliza um computador para tirar de operação um serviço, um computador ou uma rede conectada à Internet?
+
+    Varredura em redes.
+    Falsificação de e-mail.
+    Força Bruta.
+    Desfiguração de página.
+----Negação de serviço distribuído.
+
+
+===============================================================================================
+
+
+
+
+
+
+Assinale a opção que completa corretamente as lacunas da sentença abaixo:
+
+As técnicas criptográficas permitem que um remetente __________ os dados de modo que um ___________não consiga obter nenhuma informação com base nos dados interceptados.
+
+    disfarce / conhecido
+----disfarce / intruso
+    transmita / intruso
+    apague / intruso
+    transmita / conhecido
+
+Correto
+
+Um ataque de negação de serviço viola qual requisito de segurança?
+
+    Integridade
+----Disponibilidade.
+    Autenticidade.
+    Confidencialidade.
+    Autorização
+
+
+===============================================================================================
+
+
+
+
+
+
+Um administrador de redes, ao chegar a seu local de trabalho pela manhã, constatou que o servidor WEB de sua instituição, o qual hospeda o site de e-commerce, estava “fora do ar” e que a base de dados com informações cadastrais de clientes foi copiada indevidamente. Quais requisitos básicos de Segurança em Redes foram afetados nesse incidente de segurança?
+
+    Integridade e Confidencialidade.
+    Disponibilidade e Integridade.
+    Integridade e Privacidade.
+    Confidencialidade e Privacidade.
+----Disponibilidade e Confidencialidade.
+
+
+===============================================================================================
+
+
+
+
+
+A segurança em redes de computadores utiliza criptografia para garantir uma comunicação segura. Qual requisito básico de segurança NÃO é garantido pela criptografia?
+
+    Confidencialidade dos dados.
+    Integridade dos dados
+----Disponibilidade dos dados
+    Autenticidade dos dados.
+
+
+
+===============================================================================================
+
+
+
+
+
+São propriedades da comunicação segura:
+
+    comodidade, autenticação do ponto final, integridade de mensagem e qualidade operacional
+    
+    confidencialidade, autenticação do ponto inicial, integridade de usuário e segurança 		
+    operacional.
+    
+    compatibilidade, autenticação do ponto final, integridade de mensagem e qualidade da 
+    criptografia.
+    
+----confidencialidade, autenticação do ponto final, integridade de mensagem e segurança 
+    operacional.
+    
+    confiabilidade, autenticação do ponto de acesso, conteúdo de mensagem e segurança 
+    estratégica.
+
+
+
+
